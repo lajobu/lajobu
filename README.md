@@ -6,7 +6,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lajobu)
 
-Hi, I'm [Jorge Bueno Perez](https://www.jorgebuenoperez.com/), student of the last year of the master's degree in `Data Science`. I'm proficient in `Python`, `SQL` and other technologies as demonstrated by the created projects published here, related to `NLP`, `Machine Learning`, `Deep Learning`, `Computer Vision`, `Econometrics`, `Flask web API`, `Unsupervised Learning` and `Web scrappig`.
+Hi, I'm [Jorge Bueno Perez](https://www.jorgebuenoperez.com/), student of the last year of the master's degree in `Data Science`. I'm proficient in `Python`,`R`, `SQL` and other technologies as demonstrated by the created projects published here, related to `NLP`, `Machine Learning`, `Deep Learning`, `Computer Vision`, `Econometrics`, `Flask web API`, `Unsupervised Learning` and `Web scrappig`.
 
 📈 My GitHub Stats
 
